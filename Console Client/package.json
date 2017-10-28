@@ -1,10 +1,10 @@
 {
-  "name": "ObeyAlerts",
-  "description": "ObeyAlertsBois",
+  "name": "account",
+  "description": "alt",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "MinecraftClient.exe",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node MinecraftClient.exe"
   },
   "dependencies": {
     "discord.js": "11.1.0",
