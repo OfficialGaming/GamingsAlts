@@ -1,0 +1,4 @@
+send /connect pvp.zone Alt1
+wait 10
+send /f join obey
+exit
